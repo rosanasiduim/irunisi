@@ -1,0 +1,1 @@
+return c in POLAR_POSITION_CHANNEL_INDEX
